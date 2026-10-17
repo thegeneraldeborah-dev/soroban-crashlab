@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-1806-post-login-redirect-allowlist-for-oauth"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-1806-post-login-redirect-allowlist-for-oauth": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-1806-post-login-redirect-allowlist-for-oauth"
+  ]
+}
